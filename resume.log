@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:50
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -294,12 +294,22 @@ Overfull \hbox (17.2222pt too wide) in paragraph at lines 175--187
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 191--204
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+[]\OT1/cmr/m/n/10 Expierences and
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 190--205
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 206--216
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 208--221
+[][] [] 
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 223--233
 [][] [] 
  []
 
@@ -316,9 +326,9 @@ Here is how much of TeX's memory you used:
 c/cm/dpi600/cmsy10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/p
 ublic/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfou
 r/public/cm/dpi600/cmbx12.pk>
-Output written on resume.pdf (2 pages, 3025889 bytes).
+Output written on resume.pdf (2 pages, 3026471 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
