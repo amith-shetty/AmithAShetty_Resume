@@ -1,2 +1,2 @@
 # AmithAShetty_Resume
-This is my created using latex
+This is my resume created using latex
