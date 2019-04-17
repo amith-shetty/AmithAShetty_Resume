@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:04
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -210,88 +210,88 @@ Overfull \hbox (17.2222pt too wide) in paragraph at lines 21--36
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-[]\OT1/cmr/m/n/10 OBJECTIVE
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 42--50
+[][] [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 57.
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 42--58
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 51--67
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 65--74
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 74--83
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 []\OT1/cmr/m/n/10 TRAINING
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 80--88
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 89--97
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 []\OT1/cmr/m/n/10 RESEARCH
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 92--100
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 101--109
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 103--111
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 112--120
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 116--124
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 125--133
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 []\OT1/cmr/m/n/10 EXTRA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 \OT1/cmr/m/n/10 CURRICULAR
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 128--136
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 137--145
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 []\OT1/cmr/m/n/10 CO-CURRICULAR
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 140--148
-[][] [] 
- []
-
-
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 152--165
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 149--157
 [][] [] 
  []
 
 [1
 
 {/home/amithshetty/.miktex/texmfs/data/pdftex/config/pdftex.map} <./amith_profi
-le.JPG>] [2] (resume.aux) ) 
+le.JPG>]
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 161--174
+[][] [] 
+ []
+
+[2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  1985 strings out of 494864
  29117 string characters out of 3177943
@@ -299,13 +299,13 @@ Here is how much of TeX's memory you used:
  5638 multiletter control sequences out of 15000+200000
  4361 words of font info for 17 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 41i,8n,32p,275b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljf
-our/public/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/
-ljfour/public/cm/dpi600/cmbx12.pk>
-Output written on resume.pdf (2 pages, 3022521 bytes).
+ 41i,8n,32p,311b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/publi
+c/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/pu
+blic/cm/dpi600/cmbx12.pk>
+Output written on resume.pdf (2 pages, 3023146 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
