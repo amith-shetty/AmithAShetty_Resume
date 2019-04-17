@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:56
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -256,12 +256,12 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 119--138
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 119--140
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 143--155
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 145--157
 [][] [] 
  []
 
@@ -269,47 +269,47 @@ Overfull \hbox (17.2222pt too wide) in paragraph at lines 143--155
 
 {/home/amithshetty/.miktex/texmfs/data/pdftex/config/pdftex.map} <./amith_profi
 le.JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 []\OT1/cmr/m/n/10 EXTRA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 \OT1/cmr/m/n/10 CURRICULAR
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 159--171
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 161--173
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 []\OT1/cmr/m/n/10 CO-CURRICULAR
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 175--187
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 177--189
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 []\OT1/cmr/m/n/10 Expierences and
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 190--205
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 192--207
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 208--221
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 210--223
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 223--233
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 225--235
 [][] [] 
  []
 
@@ -326,7 +326,7 @@ Here is how much of TeX's memory you used:
 c/cm/dpi600/cmsy10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/p
 ublic/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfou
 r/public/cm/dpi600/cmbx12.pk>
-Output written on resume.pdf (2 pages, 3026471 bytes).
+Output written on resume.pdf (2 pages, 3026481 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
