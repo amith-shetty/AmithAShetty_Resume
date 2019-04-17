@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 16:30
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -219,67 +219,64 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 57.
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 51--67
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 51--71
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 74--83
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 78--90
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 []\OT1/cmr/m/n/10 TRAINING
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 89--97
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 96--104
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 []\OT1/cmr/m/n/10 RESEARCH
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 101--109
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 108--116
+[][] [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 125.
+
+(/home/amithshetty/.miktex/texmfs/install/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 119--137
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 112--120
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 142--154
 [][] [] 
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 125--133
-[][] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 []\OT1/cmr/m/n/10 EXTRA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 \OT1/cmr/m/n/10 CURRICULAR
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 137--145
-[][] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-[]\OT1/cmr/m/n/10 CO-CURRICULAR
- []
-
-
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 149--157
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 158--170
 [][] [] 
  []
 
@@ -287,25 +284,36 @@ Overfull \hbox (17.2222pt too wide) in paragraph at lines 149--157
 
 {/home/amithshetty/.miktex/texmfs/data/pdftex/config/pdftex.map} <./amith_profi
 le.JPG>]
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 161--174
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+[]\OT1/cmr/m/n/10 CO-CURRICULAR
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 174--186
+[][] [] 
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 190--203
 [][] [] 
  []
 
 [2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1985 strings out of 494864
- 29117 string characters out of 3177943
- 94107 words of memory out of 3000000
- 5638 multiletter control sequences out of 15000+200000
+ 2002 strings out of 494864
+ 29431 string characters out of 3177943
+ 97107 words of memory out of 3000000
+ 5652 multiletter control sequences out of 15000+200000
  4361 words of font info for 17 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 41i,8n,32p,311b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,32p,311b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/publi
-c/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/pu
-blic/cm/dpi600/cmbx12.pk>
-Output written on resume.pdf (2 pages, 3023146 bytes).
+c/cm/dpi600/cmsy10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/p
+ublic/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfou
+r/public/cm/dpi600/cmbx12.pk>
+Output written on resume.pdf (2 pages, 3025779 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
