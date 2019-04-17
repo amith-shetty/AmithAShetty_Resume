@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 09:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 15:47
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -188,24 +188,124 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) [1
+)
+<amith_profile.JPG, id=1, 565.6332pt x 749.9217pt>
+File: amith_profile.JPG Graphic file (type jpg)
+<use amith_profile.JPG>
+Package pdftex.def Info: amith_profile.JPG  used on input line 34.
+(pdftex.def)             Requested size: 100.0pt x 132.57707pt.
 
-{/home/amithshetty/.miktex/texmfs/data/pdftex/config/pdftex.map}]
-(resume.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 21--36
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/10 OBJECTIVE
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 42--58
+[][] [] 
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 65--74
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]\OT1/cmr/m/n/10 TRAINING
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 80--88
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[]\OT1/cmr/m/n/10 RESEARCH
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 92--100
+[][] [] 
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 103--111
+[][] [] 
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 116--124
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+[]\OT1/cmr/m/n/10 EXTRA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+\OT1/cmr/m/n/10 CURRICULAR
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 128--136
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+[]\OT1/cmr/m/n/10 CO-CURRICULAR
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 140--148
+[][] [] 
+ []
+
+
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 152--165
+[][] [] 
+ []
+
+[1
+
+{/home/amithshetty/.miktex/texmfs/data/pdftex/config/pdftex.map} <./amith_profi
+le.JPG>] [2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1977 strings out of 494864
- 28981 string characters out of 3177943
- 91107 words of memory out of 3000000
- 5632 multiletter control sequences out of 15000+200000
+ 1985 strings out of 494864
+ 29117 string characters out of 3177943
+ 94107 words of memory out of 3000000
+ 5638 multiletter control sequences out of 15000+200000
  4361 words of font info for 17 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 41i,4n,32p,275b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/public/cm
-/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljfour/public
-/cm/dpi600/cmbx12.pk>
-Output written on resume.pdf (1 page, 18136 bytes).
+ 41i,8n,32p,275b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/amithshetty/.miktex/texmfs/data/fonts/pk/ljf
+our/public/cm/dpi600/cmr10.pk> </home/amithshetty/.miktex/texmfs/data/fonts/pk/
+ljfour/public/cm/dpi600/cmbx12.pk>
+Output written on resume.pdf (2 pages, 3022521 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
